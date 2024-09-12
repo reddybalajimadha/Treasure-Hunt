@@ -1,18 +1,3 @@
-/******************************************************************************
- *      Instructor  : Sean Harrington
- *      Students   : Reddy Balaji Madha, Ritesh Barapatre, Sami Almalki, Aryan Desai 
- *         Date   : 19 JULY 2023
- *       Course  : IT-516 Data Structures & Algorithms
- *   Assignment  : GD02
- *
- *
- *  Compile...
- *  javac-algs4 Treasure_hunt.java
- *
- *  Run...
- *  java-algs4 Treasure_hunt 4
- *
- ******************************************************************************/
 
 import edu.princeton.cs.algs4.*;
 
