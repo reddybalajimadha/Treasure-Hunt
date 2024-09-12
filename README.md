@@ -50,6 +50,3 @@ Welcome to the "Treasure Hunt" game! This is a simple Java-based board game wher
 
 Feel free to fork the repository, make changes, and submit a pull request if you'd like to contribute. For major changes or feature requests, please open an issue to discuss them first.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
